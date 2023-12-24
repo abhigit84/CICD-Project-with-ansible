@@ -49,7 +49,7 @@ this is master url
 put password-which is diplayed by above command in jenkins
 install all suggested plugins
 all admin(username,password)
-abhinoi84@gmail.com
+email
 jenkins url-http://ec2 ip:8080/
 Note for jenkins login-all admin(username,password)
 
