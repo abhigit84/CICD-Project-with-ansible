@@ -198,7 +198,7 @@ Action-Create
 Imagename-kubernetes-configmap-reload
 Imagetag-v1
 Appname-kubernetes-configmap-reload
-Docker_repo-abhinoi84
+Docker_repo-your docker id
 
 Click on Piepline-you will get option-build with parameters.
 
