@@ -158,7 +158,7 @@ add kind-use username with password-username-and password--id-GIT_HUB_CREDENTIAL
 
 14)Add maven in global tool configuration(as u not installing maven on ec2 so u using maven from jenkins like this)
 
-Manage jenkins-Tools-maven installations-add maven-name-maven3-version-2.0.1
+Manage jenkins-Tools-maven installations-add maven-name-maven3-version-3.9.1
 
 15)Add Jenkins shared library
 
